@@ -1,4 +1,1 @@
-"branch1" 
-"branch2" 
-"branch3" 
-"branch4" 
+console.log('init');
