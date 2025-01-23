@@ -3,3 +3,4 @@ for (let i = 1; i <= 100; i++) {
   console.log(i);
 }console.log('branch2');
 console.log('branch3');
+console.log('branch4');
